@@ -3,12 +3,13 @@
 ## 1. Sarah J.
 
 <div style="display:flex; justify-content: space-between;">
-     <div style="flex:1; padding-right: 1rem;">
-Sarah J. is a 31-year-old interior designer who works for a large residential construction company. She leads a busy life and works long hours. She lives alone in a two-bedroom apartment with her many pets. Her apartment is only a five-minute walk from work; she likes to be efficient. Sarah practices painting in her free time, though she would never share her work with any of her peers.
-     </div>
-    <div style="flex-shrink: 1;">
+ <div style="flex-shrink: 1;">
           <img src="images/persona1.png" width="300" alt="dd"/>
      </div>
+     <div style="flex:1; padding-left: 0.5rem">
+Sarah J. is a 31-year-old interior designer who works for a large residential construction company. She leads a busy life and works long hours. She lives alone in a two-bedroom apartment with her many pets. Her apartment is only a five-minute walk from work; she likes to be efficient. Sarah practices painting in her free time, though she would never share her work with any of her peers.
+     </div>
+
 </div>
 
 ### Scenarios
@@ -26,11 +27,11 @@ Sarah J. is a 31-year-old interior designer who works for a large residential co
 ## 2. Alex P.
 
 <div style="display:flex; justify-content: space-between;">
-     <div style="flex:1; padding-right: 1rem;">
-Alex P. is a 27-year-old high school teacher. He is only a few days away from teaching a class for the first time after years of education and hard work. He was raised by multiple family members from varying backgrounds. He values unique ideas and perspectives. He has no pets and lives in his successful brother’s guest bedroom. Alex plans on moving out once he starts teaching. Alex teaches science and prefers using metric instead of imperial measurement units.
-     </div>
      <div style="flex-shrink: 1;">
-          <img src="images/persona2.png" width="300" alt="dd"/>
+          <img src="images/persona2.png" width="300" alt="persona2"/>
+     </div>
+     <div style="flex:1; padding-left: 0.5rem">
+Alex P. is a 27-year-old high school teacher. He is only a few days away from teaching a class for the first time after years of education and hard work. He was raised by multiple family members from varying backgrounds. He values unique ideas and perspectives. He has no pets and lives in his successful brother’s guest bedroom. Alex plans on moving out once he starts teaching. Alex teaches science and prefers using metric instead of imperial measurement units.
      </div>
 </div>
 
@@ -47,7 +48,10 @@ Alex P. is a 27-year-old high school teacher. He is only a few days away from te
 ## 2. Jonathan B.
 
 <div style="display:flex; justify-content: space-between;">
-     <div style="flex:1; padding-right: 1rem;">
+<div style="flex-shrink: 1;">
+<img src="images/persona3.png" width="300" alt="persona3"/>
+</div>
+     <div style="flex:1; padding-left: 0.5rem">
 Jonathan is a 20-year-old college student.
 
 Jonathan is a sophomore business finance student at a 4-year university. He just moved into a new apartment after moving
@@ -59,9 +63,7 @@ Jonathan does not have a particularly busy schedule, leaving him ample time to p
 several friends that live nearby who he hopes will visit often to play video games and watch movies. He sometimes has
 trouble focusing on his schoolwork, and likes to keep his bedroom as a work area, and living room as leisure area.
 </div>
-<div style="flex-shrink: 1;">
-<img src="images/persona3.png" width="300" alt="dd"/>
-</div>
+
 </div>
 
 ### Scenarios

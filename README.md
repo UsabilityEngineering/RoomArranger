@@ -7,8 +7,8 @@ current layout and will be able to recommend more efficient layouts, as well as 
 
 ## UX Team Members
 
-* **[Braden Nicholson](https://usabilityengineering.github.io/ux-portfolio-bradenn/)** - !!!List of Person A's primary
-  contributions!!!
+* **[Braden Nicholson](https://usabilityengineering.github.io/ux-portfolio-bradenn/)** - Made personas, user stories,
+  sketches, and wrote executive summary.
 * **[Luke Burkhardt](https://github.com/UsabilityEngineering/ux-portfolio-burkhardtluke)** - !!!List of Person B's
   primary contributions!!!
 

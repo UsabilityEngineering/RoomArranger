@@ -2,19 +2,22 @@
 
 # RoomArranger
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+RoomArranger aims to create a new paradigm of automated furniture layouts. RoomArranger will be able to take in a room's
+current layout and will be able to recommend more efficient layouts, as well as provide Feng Shui insights.
 
 ## UX Team Members
 
-* **[Braden Nicholson](https://usabilityengineering.github.io/ux-portfolio-bradenn/)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Braden Nicholson](https://usabilityengineering.github.io/ux-portfolio-bradenn/)** - !!!List of Person A's primary
+  contributions!!!
+* **[Luke Burkhardt](https://github.com/UsabilityEngineering/ux-portfolio-burkhardtluke)** - !!!List of Person B's
+  primary contributions!!!
 
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](personas/)
-* [Sketches and Diagrams](sketches/)
+
+* [Personas and Scenarios](personas/README.md)
+* [Sketches and Diagrams](sketches/room.pdf)
 * [Wireframes](#) - Coming soon (phase II)!
 * [Prototype](#) - Coming soon (phase III)!
 
@@ -22,10 +25,12 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Analyzed competitor software to determine possible strengths and weakness in our plan.
+* Created personas to represent possible end-users for our program.
+* Crafted scenarios with the personas, defining user goals, expectations, and interactions we should consider for the
+  UI.
+* Created wireframe layouts depicting possible UI configurations.
+* Began arranging wireframe layouts to experiment with designing the user experience (UX).
 
 [Full phase I report](phaseI/)
 

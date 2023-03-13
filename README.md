@@ -1,5 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # RoomArranger
 
 RoomArranger aims to create a new paradigm of automated furniture layouts. RoomArranger will be able to take in a room's
@@ -14,8 +12,6 @@ current layout and will be able to recommend more efficient layouts, as well as 
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-
 * [Personas and Scenarios](personas/README.md)
 * [Sketches and Diagrams](sketches/room.pdf)
 * [Wireframes](#) - Coming soon (phase II)!

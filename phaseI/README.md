@@ -2,17 +2,14 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+RoomArranger's goal is to aid in the process of interior layout and design. Users will be able to create a digital model of a room and determine the most practical furniture locations without needing to waste time and energy physically moving furniture. RoomArranger will also be able to analyze a room's current physical arrangement and suggest effective layouts using Feng Shui principles.
 
 ## Methods
-
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough
-detail that someone would be able to faithfully reproduce your research. !!!
 
 **Competitive Analysis**
 
 In order to better establish where RoomArranger should strive to fit into the current marketplace, we sought to find and
-analyze some potential competitors.
+analyze some potential competitors. The target demographic for similar applications is diverse, ranging from personal-use homeowners to commercial-use contractors. None of these existing applications possess the ability to analyze rooms and provide the user with layout suggestions, making the Feng Shui aspect of RoomArranger an important and unique feature.  
 
 **Heuristic Evaluation**
 
@@ -60,26 +57,21 @@ Weather you switch between Wi-Fi networks while editing your floor plan, or just
 that the effort you put into the program is not wasted. We found that the websites that easily lost your saved work, or
 tried to make you pay to save we among the lowest ranking through all of our evaluations.
 
-**Fault Tolerance**
-
-Using what we learned from the competitive analysis, heuristic evaluations, personas, and scenarios, we were able to
-form several specific use cases for the application.
-
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
-
 ## Conclusions
 
-**Wireframes**
+**User Interface**
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into
-UX design recommendations. Describe those recommendations and how they should shape future work. In this section,
-include the new design recommendations based on the latest user insights. !!!
+While most existing applications have similar user interfaces, most fail to meet the needs of the diverse demographic of users. Feature-rich examples have a cluttered and confusing interface, while examples with clean interfaces are lacking necessary features. RoomArranger will need to find an optimal blend of simplicity and features in order to effectively accommodate all potential users. 
+
+**Feng Shui Aspect**
+
+None of the existing room layout applications support any sort of analysis based layout suggestions. RoomArranger will need to include this feature in order to stand out and be considered by users over existing applications. 
+
+**Errors**
+
+Existing applications do very little to notify the user of an error and allow mistakes to be made easily. For example, if a piece of furniture is placed on top of another or in front of a doorway, the program does not send any error message to the user. This is a huge oversight in our opinion, and needs to be addressed with RoomArranger.
 
 ## Caveats
 
 We had difficulty finding any competing software that offered the ability to arrange furniture within the confines of a
-defined floor plan.
-
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other
-words, give warnings if there are limitations to your research such as not being able to find enough users of a
-particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+defined floor plan. Since none of the examples included analysis based Feng Shui layout suggestions, we have no basis to compare our program to. Target demographics seem to be fairly narrow for existing applications, meaning we will have to take insparation from multiple examples and combine them to meet the needs of our wide demographic of users. 

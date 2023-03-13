@@ -40,22 +40,22 @@ You can view the individual personas here: [Personas & Scenarios](/personas/READ
 
 ## Findings
 
-We found that the user's intentions for the using the program vary widely but all resolve to the goal of creating floor
+We found that the user's intentions for using the program vary widely but all resolve to the goal of creating floor
 plan designs with dynamic furniture placement.
 
 **A Dynamic Interface**
 
 In our research, we found that it can sometimes be quite difficult to accurately translate the shape and dimensions of a
 room into a web-based floor plan creator.
-Since the relative sizes of the room and furniture need to be faithfully reproduces within the program to get accurate
+Since the relative sizes of the room and furniture need to be faithfully reproduced within the program to get accurate
 recommendations, it is important that the interface is easy to use, and unambiguous with defining physical dimensions.
 
 **Fault Tolerance**
 
-While evaluating competing programs, we noted a reoccurring theme of easily losing your work.
-Weather you switch between Wi-Fi networks while editing your floor plan, or just click the wrong button, it is important
+While evaluating competing programs, we noted a reccurring theme of easily losing your work.
+Whether you switch between Wi-Fi networks while editing your floor plan, or just click the wrong button, it is important
 that the effort you put into the program is not wasted. We found that the websites that easily lost your saved work, or
-tried to make you pay to save we among the lowest ranking through all of our evaluations.
+tried to make you pay to save were among the lowest ranking through all of our evaluations.
 
 ## Conclusions
 
@@ -74,4 +74,4 @@ Existing applications do very little to notify the user of an error and allow mi
 ## Caveats
 
 We had difficulty finding any competing software that offered the ability to arrange furniture within the confines of a
-defined floor plan. Since none of the examples included analysis based Feng Shui layout suggestions, we have no basis to compare our program to. Target demographics seem to be fairly narrow for existing applications, meaning we will have to take insparation from multiple examples and combine them to meet the needs of our wide demographic of users. 
+defined floor plan. Since none of the examples included analysis based Feng Shui layout suggestions, we have no basis to compare our program to. Target demographics seem to be fairly narrow for existing applications, meaning we will have to take inspiration from multiple examples and combine them to meet the needs of our wide demographic of users. 

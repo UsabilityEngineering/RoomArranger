@@ -12,7 +12,7 @@ current layout and will be able to recommend more efficient layouts, as well as 
 # User-Centered Design Artifacts
  
 * [Personas and Scenarios](personas/README.md)
-* [Sketches and Diagrams](sketches/room.pdf)
+* [Sketches and Diagrams](sketches)
 * [Wireframes](#) - Coming soon (phase II)!
 * [Prototype](#) - Coming soon (phase III)!
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-RoomArranger's goal is to aid in the process of interior layout and design. Users will be able to create a digital model of a room and determine the most practical furniture locations without needing to waste time and energy physically moving furniture. RoomArranger will also be able to analyze a room's current physical arrangement and suggest effective layouts using Feng Shui principles.
+RoomArranger's goal is to aid in the process of interior layout and design. Users will be able to create a digital model of a room and determine the most practical furniture locations without needing to waste time and energy physically moving furniture. Potential layouts will be easily shared between users. RoomArranger will also be able to analyze a room's current physical arrangement and suggest effective layouts using Feng Shui principles.
 
 ## Methods
 

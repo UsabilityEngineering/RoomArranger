@@ -13,7 +13,7 @@ current layout and will be able to recommend more efficient layouts, as well as 
  
 * [Personas and Scenarios](personas/README.md)
 * [Sketches and Diagrams](sketches)
-* [Wireframes](#) - Coming soon (phase II)!
+* [Wireframes](wireframes)
 * [Prototype](#) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs

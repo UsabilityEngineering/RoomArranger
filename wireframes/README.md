@@ -1,5 +1,13 @@
 ## Wireframes
 
+**Original Wireframes (Used for user/SE feedback)**
+
+[Revision 1](original.pdf)
+
+**Revised Wireframes (Based on feedback)**
+
+[Revision 2](revision-2.pdf)
+
 ### Login / Signup
 
 One of the first views the user will see when interacting with the website is a login or register page. By default the

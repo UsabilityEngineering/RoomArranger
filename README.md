@@ -33,10 +33,30 @@ current layout and will be able to recommend more efficient layouts, as well as 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+**Wireframes & Visual Functionality**
+
+- Created Wireframes to understand and demonstrate the app’s desired functionality.
+- Incorporated feedback from students and software engineers to refine the design.
+
+**Cognitive Walkthroughs & User Navigation**
+
+- Conducted parallel cognitive walkthroughs using persona perspectives and scenarios.
+- Addressed several minor navigational issues reported by student feedback.
+
+**Layout Planner**
+
+- We found that users struggled with visualizing the abstract functionality of the layout planner.
+- We added several additional icons, images, and copy text to the editor page wireframe to aid in demonstrating the
+  planner’s intended functionality.
+
+**File Formats & Sketch Uploads**
+
+- Most users were confused by the suggested CSV, JSON, and XML file formats for the upload feature.
+- We modified the layout to only suggest importing a .roomarranger file, which will be generated when exporting a
+  layout.
+- Many users expected to be able to upload a drawing of their layout, despite it not being a defined feature. We have
+  added the feature to the layout, but we are unsure if the development team will have the time or resources to
+  implement it.
 
 [Full phase II report](phaseII/)
 

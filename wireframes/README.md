@@ -5,9 +5,9 @@
 One of the first views the user will see when interacting with the website is a login or register page. By default the
 user will first be sent to the login page. If the user does not have an account, they may create one by clicking "Sign
 Up" on the Login page.
-<span style="display: flex; gap:4px;">
-<img src="images/login.jpg" alt="login" width="45%" />
-<img src="images/signup.jpg" alt="signup" width="45%" />
+<span style="display: flex; gap:1%;">
+<img src="images/login.jpg" alt="login" width="49.5%" />
+<img src="images/signup.jpg" alt="signup" width="49.5%" />
 </span>
 
 ### Home Page

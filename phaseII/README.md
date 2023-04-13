@@ -20,11 +20,11 @@ feature ideation.
 - We created a wireframe prototype that allowed the user to interact with the general design layout in the most basic
   sense. Users could click between pages and walk through the steps of completing certain assigned tasks.
 - We assigned tasks based on the ones from our personas and scenarios.
-- Users were allowed to choose their own scenario to walk through
+- Users were allowed to choose their own scenario to walk through from the ones provided.
 
 ## Findings
 
-- One cognitive walkthrough user requested the inclusion of a “how-to” guide, so a series of hints and tips should be
+- One cognitive walkthrough user requested the inclusion of a "how-to" guide, so a series of hints and tips should be
   implemented into our program for new users, guiding them through the software during their first use. This will ensure
   that users are aware of all useful functions that the software provides and are able to effectively and efficiently
   navigate through them.

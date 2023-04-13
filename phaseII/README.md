@@ -33,11 +33,9 @@ feature ideation.
   Drop, etc).
 - Based on cognitive walkthrough results, users were satisfied with the navigation of our wireframes and encountered no
   significant complications of confusion.
-- We found that users who did not have a background in technology often expected miracles from the design mockups. One
-  user expected the wireframes to be fully functional and capable of converting a drawing into a fully functional
-  layout.
 - One user was unable to locate the button linked to the profile editing page, meaning it will need to be made more
   salient.
+- We found that adding specific navigational and tool clues helped guide the user to their goal.
 
 ## Conclusions
 

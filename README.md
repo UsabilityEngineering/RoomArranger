@@ -64,6 +64,10 @@ current layout and will be able to recommend more efficient layouts, as well as 
 
 **Executive Summary**
 
+An executive summary for Phase III that describes your user test and what new things you learned and recommend from the
+analysis. This can also include how the findings influenced updates to your design artifacts (e.g. adding/changing
+scenarios, influencing wireframe workflow, etc.)
+
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!

@@ -81,9 +81,14 @@ Users were impressed with the cleanliness and sophistication of the prototype.
 UX design recommendations. Describe those recommendations and how they should shape future work. In this section,
 include the new design recommendations based on the latest user insights. !!!
 
-Describe discoveries derived from the findings. Interpret how the findings translate into new insights into usability
+!!! Describe discoveries derived from the findings. Interpret how the findings translate into new insights into
+usability
 design recommendations. Describe and/or demonstrate those recommendations and how they should shape summative
-conclusions, formative revisions, and recommended future work.
+conclusions, formative revisions, and recommended future work. !!!
+
+The reoccurring theme throughout the user test was the ambiguity of the icons on the editor page. Whether the user was
+trying to select a type of door, window, or fixture, or selecting furniture, they found difficulty in identifying the
+correct items.
 
 ## Caveats
 
@@ -91,9 +96,10 @@ conclusions, formative revisions, and recommended future work.
 words, give warnings if there are limitations to your research such as not being able to find enough users of a
 particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
 
-Considerations and/or limitations to the usability test and the findings/conclusions drawn from them. In other words,
+!!! Considerations and/or limitations to the usability test and the findings/conclusions drawn from them. In other
+words,
 give warnings if there are limitations to your research such as not being able to find enough users of a particular
-demographic, the methods not being able to expose certain information, assumptions you made, etc.
+demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
 
 Our interface prototype's functionality was extremely limited by the simplicity of AdobeXD.
 

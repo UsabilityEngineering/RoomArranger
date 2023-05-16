@@ -62,26 +62,27 @@ current layout and will be able to recommend more efficient layouts, as well as 
 
 # Phase III: Prototypes and User Testing
 
-**Executive Summary**
-
-An executive summary for Phase III that describes your user test and what new things you learned and recommend from the
-analysis. This can also include how the findings influenced updates to your design artifacts (e.g. adding/changing
-scenarios, influencing wireframe workflow, etc.)
-
 **Prototype**
 
 - We finalized the design and functionality of our mock-up prototype.
 - We began implementing visual adjustments from our previous analysis.
+- We added more detailed icons to help guide the users through the interface.
+- We simplified interface elements that were confusing.
 
 **User Testing**
 
 - We created a comprehensive testing procedure for determining the efficacy our prototype.
-- We completed the requisite paperwork required for approval of a user study.
--
+- Using information from previous user feedback, we designed the testing procedure to focus on user experience issue we
+  found in previous iterations.
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+- We were able to improve many points of confusion with the user interface.
+- Many more interactions patterns were added to the prototype, allowing users to have a more productive interactions.
+- Using the more advanced prototype, we were able to apply the user testing feedback toward specifying design parameters
+  for an end product.
+
+**Icons**
+
+- The user testing revealed an oversight regarding the reliance on unlabeled icons within the user interface.
+- Some users had a hard time making out small toolbar icons due to visual impairments.
 
 [Full phase III report](phaseIII/)

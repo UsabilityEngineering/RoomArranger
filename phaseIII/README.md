@@ -38,10 +38,6 @@ to 5 (one is very easy, five is very difficult).
 
 ## Findings
 
-
-
-
-
 Users were impressed with the cleanliness and sophistication of the prototype.
 
 - All users rated the user experience difficulty for creating an account and signing in as "Extremely Easy", or a 1 on
@@ -72,8 +68,6 @@ Users were impressed with the cleanliness and sophistication of the prototype.
 
 ## Conclusions
 
-
-
 - The reoccurring theme throughout the user test was the ambiguity of the icons on the editor page. Whether the user was
 trying to select a type of door, window, or fixture, or selecting furniture, they found difficulty in identifying the
 correct items.
@@ -82,12 +76,7 @@ correct items.
 - Users that had previous experience with other room layout programs noted that RoomArranger achieved a superior blend of functionality and simplicity than other programs. This was our initial intent since we aimed for RoomArranger to appeal to both personal and professional users.
  
 
-
-   
-
 ## Caveats
-
-
 
 - Our interface prototype's functionality was extremely limited by the simplicity of AdobeXD. We will not be able to analyze the true functionality of RoomArranger's layout screen until our project progresses away from AdobeXD.
 

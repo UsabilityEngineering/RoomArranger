@@ -83,6 +83,14 @@ current layout and will be able to recommend more efficient layouts, as well as 
 **Icons**
 
 - The user testing revealed an oversight regarding the reliance on unlabeled icons within the user interface.
+  - We plan on adding tooltips that appear when a user hovers over a toolbar icon.
+  - For the floor plan and layout icons, we will add short descriptions beneath each icon.
 - Some users had a hard time making out small toolbar icons due to visual impairments.
+  - A web-based implementation will allow the user to specify the page scaling to fit their needs.
+
+**Future Steps**
+
+- The next iteration of our interface should be an actual web implementation.
+  - The program's core features are too complex to meaningfully prototype any further with AdobeXD.
 
 [Full phase III report](phaseIII/)

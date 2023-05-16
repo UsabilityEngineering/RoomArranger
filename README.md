@@ -16,6 +16,8 @@ current layout and will be able to recommend more efficient layouts, as well as 
 * [Wireframes](wireframes)
 * [Prototype](https://xd.adobe.com/view/1d479890-6579-45e6-b6b3-6b2089003a66-4814/?fullscreen&hints=off)
 
+* [AdobeXD Project File](phaseIII/roomarranger.xd)
+
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**

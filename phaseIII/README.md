@@ -4,6 +4,9 @@
 
 !!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
 
+RoomArranger’s goal is to aid in the process of interior layout and design. Users will be able to create a digital model of a room and determine the most practical furniture locations without needing to waste time and energy physically moving furniture. Potential layouts will be easily shared between users. 
+In this final interval, our group will focus on advancing our wireframes into the prototype phase in preparation for user testing. Accordingly, maximizing functionality and finalizing visual aspects of the program are our team's main focus points during this phase. 
+
 ## Methods
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough
@@ -17,7 +20,7 @@ Our user test included five individuals from a pseudo-random sample of college s
 We tasked each of the individuals with completing various tasks in an effort to gauge the effectiveness of our user
 interface design.
 
-We preformed the tests in this fashion so that the users could get comfortable with the design elements of the user
+We performed the tests in this fashion so that the users could get comfortable with the design elements of the user
 interface, and get a preview of the button layouts they will need to use in proceeding steps.
 
 1. Users were first prompted to create an account.
@@ -62,7 +65,7 @@ Users were impressed with the cleanliness and sophistication of the prototype.
   some.
     - One user, P3 said "the icons should have description", another user, P5 said they were not sure which icons to
       chose for some steps.
-    - Three users found the step "Extremely Easy" (1), though one user fond the step to be "Average" (3), and another
+    - Three users found the step "Extremely Easy" (1), though one user found the step to be "Average" (3), and another
       rated it as "Easy" (2).
     - One user seemed to know how to complete the task, but made no effort to try after noting the lack of icon
       descriptions.
@@ -72,8 +75,8 @@ Users were impressed with the cleanliness and sophistication of the prototype.
         - Users resorted to hovering over icons to see which ones they could click.
         - Other users used the process of elimination, clicking through each dropdown until they found the correct menu.
         - The median difficulty score was "Extremely Easy" (1) for three participants, but the step garnered an "
-          Average" (3) score from one participant, and a "Easy" (2) score from another.
-        -
+          Average" (3) score from one participant, and an "Easy" (2) score from another.
+        
 
 ## Conclusions
 
@@ -86,9 +89,16 @@ usability
 design recommendations. Describe and/or demonstrate those recommendations and how they should shape summative
 conclusions, formative revisions, and recommended future work. !!!
 
-The reoccurring theme throughout the user test was the ambiguity of the icons on the editor page. Whether the user was
+- The reccurring theme throughout the user test was the ambiguity of the icons on the editor page. Whether the user was
 trying to select a type of door, window, or fixture, or selecting furniture, they found difficulty in identifying the
 correct items.
+- Layout and furniture icons will be updated to more accurately represent their respective items. A "mystery meat menu" dialogue box will also appear when the user moves their cursor over an icon, providing a written description of the item before it is selected by the user.
+- All user tests resulted in effective navigation through the series of menus with little guesswork, demonstrating an overall learnable UX design with salient icons and buttons, with the exception of the "share" button. This button will be made larger and more salient to the user, and include "share" text along with the current icon.
+- Users that had previous experience with other room layout programs noted that RoomArranger achieved a superior blend of functionality and simplicity than other programs. This was our initial intent since we aimed for RoomArranger to appeal to both personal and professional users.
+ 
+
+
+   
 
 ## Caveats
 
@@ -101,7 +111,7 @@ words,
 give warnings if there are limitations to your research such as not being able to find enough users of a particular
 demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
 
-Our interface prototype's functionality was extremely limited by the simplicity of AdobeXD.
+- Our interface prototype's functionality was extremely limited by the simplicity of AdobeXD. We will not be able to analyze the true functionality of RoomArranger's layout screen until our project progresses away from AdobeXD.
 
 - Users could only add one piece of furniture to the layout at a time. AdobeXD only allows one overlay.
     - Additionally, users could not move the furniture around once it was placed.

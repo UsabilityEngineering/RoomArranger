@@ -71,14 +71,14 @@ current layout and will be able to recommend more efficient layouts, as well as 
 
 **User Testing**
 
-- We created a comprehensive testing procedure for determining the efficacy our prototype.
+- We created a comprehensive testing procedure for determining the efficacy of our prototype.
 - Using information from previous user feedback, we designed the testing procedure to focus on user experience issue we
   found in previous iterations.
 
 - We were able to improve many points of confusion with the user interface.
-- Many more interactions patterns were added to the prototype, allowing users to have a more productive interactions.
+- Many more interactions patterns were added to the prototype, allowing users to have more productive interactions.
 - Using the more advanced prototype, we were able to apply the user testing feedback toward specifying design parameters
-  for an end product.
+  for the end product.
 
 **Icons**
 

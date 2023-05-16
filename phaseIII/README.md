@@ -36,6 +36,9 @@ interface, and get a preview of the button layouts they will need to use in proc
 After the conclusion of each step, we cataloged the completion status and the user's difficulty rating on a scale of 1
 to 5 (one is very easy, five is very difficult).
 
+You can view our testing protocol here:
+[Testing Protocol](protocol.pdf)
+
 ## Findings
 
 Users were impressed with the cleanliness and sophistication of the prototype.

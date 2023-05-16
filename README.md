@@ -6,7 +6,7 @@ current layout and will be able to recommend more efficient layouts, as well as 
 ## UX Team Members
 
 * **[Braden Nicholson](https://usabilityengineering.github.io/ux-portfolio-bradenn/)** - Made personas, user stories,
-  sketches, and wrote executive summary.
+  sketches, made prototypes, created the prototype style guide, and designed aspects of the user tests.
 * **[Luke Burkhardt](https://github.com/UsabilityEngineering/ux-portfolio-burkhardtluke)** - Introduction, conclusions, persona, scenario, sketches.
 
 # User-Centered Design Artifacts
@@ -14,7 +14,7 @@ current layout and will be able to recommend more efficient layouts, as well as 
 * [Personas and Scenarios](personas/README.md)
 * [Sketches and Diagrams](sketches)
 * [Wireframes](wireframes)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](https://xd.adobe.com/view/1d479890-6579-45e6-b6b3-6b2089003a66-4814/?fullscreen&hints=off)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
@@ -67,6 +67,17 @@ current layout and will be able to recommend more efficient layouts, as well as 
 An executive summary for Phase III that describes your user test and what new things you learned and recommend from the
 analysis. This can also include how the findings influenced updates to your design artifacts (e.g. adding/changing
 scenarios, influencing wireframe workflow, etc.)
+
+**Prototype**
+
+- We finalized the design and functionality of our mock-up prototype.
+- We began implementing visual adjustments from our previous analysis.
+
+**User Testing**
+
+- We created a comprehensive testing procedure for determining the efficacy our prototype.
+- We completed the requisite paperwork required for approval of a user study.
+-
 
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!

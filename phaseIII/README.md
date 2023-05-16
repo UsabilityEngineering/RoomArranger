@@ -40,11 +40,7 @@ to 5 (one is very easy, five is very difficult).
 
 
 
-For each part of the study described in the methods:
 
-- summarize the findings point-by-point to clarify new discoveries of users' needs.
-  This should describe the aggregate data and perhaps include representative [anonymized] quotes (e.g. "P1 said, 'this
-  is much easier than what I've used before!")
 
 Users were impressed with the cleanliness and sophistication of the prototype.
 
@@ -78,7 +74,7 @@ Users were impressed with the cleanliness and sophistication of the prototype.
 
 
 
-- The reccurring theme throughout the user test was the ambiguity of the icons on the editor page. Whether the user was
+- The reoccurring theme throughout the user test was the ambiguity of the icons on the editor page. Whether the user was
 trying to select a type of door, window, or fixture, or selecting furniture, they found difficulty in identifying the
 correct items.
 - Layout and furniture icons will be updated to more accurately represent their respective items. A "mystery meat menu" dialogue box will also appear when the user moves their cursor over an icon, providing a written description of the item before it is selected by the user.

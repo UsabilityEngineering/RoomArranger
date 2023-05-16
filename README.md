@@ -7,7 +7,7 @@ current layout and will be able to recommend more efficient layouts, as well as 
 
 * **[Braden Nicholson](https://usabilityengineering.github.io/ux-portfolio-bradenn/)** - Made personas, user stories,
   sketches, made prototypes, created the prototype style guide, and designed aspects of the user tests.
-* **[Luke Burkhardt](https://github.com/UsabilityEngineering/ux-portfolio-burkhardtluke)** - Introduction, conclusions, persona, scenario, sketches.
+* **[Luke Burkhardt](https://github.com/UsabilityEngineering/ux-portfolio-burkhardtluke)** - Introduction, conclusions, personas, scenarios, sketches, caveats, wireframes.
 
 # User-Centered Design Artifacts
  

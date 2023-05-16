@@ -113,5 +113,7 @@ demographic, the methods not being able to expose certain information, assumptio
 
 - Our interface prototype's functionality was extremely limited by the simplicity of AdobeXD. We will not be able to analyze the true functionality of RoomArranger's layout screen until our project progresses away from AdobeXD.
 
+- The limitations of AdobeXD also make it difficult for us to analyze the file upload/sharing aspect of RoomArranger.
+
 - Users could only add one piece of furniture to the layout at a time. AdobeXD only allows one overlay.
     - Additionally, users could not move the furniture around once it was placed.

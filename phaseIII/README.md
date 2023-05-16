@@ -2,18 +2,14 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+
 
 RoomArranger’s goal is to aid in the process of interior layout and design. Users will be able to create a digital model of a room and determine the most practical furniture locations without needing to waste time and energy physically moving furniture. Potential layouts will be easily shared between users. 
 In this final interval, our group will focus on advancing our wireframes into the prototype phase in preparation for user testing. Accordingly, maximizing functionality and finalizing visual aspects of the program are our team's main focus points during this phase. 
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough
-detail that someone would be able to faithfully reproduce your research. !!!
 
-!!! Describe your approach to your user test, including the number of participants (n=5), study design, a list of the
-tasks they performed, and other data collected !!!
 
 Our user test included five individuals from a pseudo-random sample of college students.
 
@@ -42,7 +38,7 @@ to 5 (one is very easy, five is very difficult).
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+
 
 For each part of the study described in the methods:
 
@@ -80,14 +76,7 @@ Users were impressed with the cleanliness and sophistication of the prototype.
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into
-UX design recommendations. Describe those recommendations and how they should shape future work. In this section,
-include the new design recommendations based on the latest user insights. !!!
 
-!!! Describe discoveries derived from the findings. Interpret how the findings translate into new insights into
-usability
-design recommendations. Describe and/or demonstrate those recommendations and how they should shape summative
-conclusions, formative revisions, and recommended future work. !!!
 
 - The reccurring theme throughout the user test was the ambiguity of the icons on the editor page. Whether the user was
 trying to select a type of door, window, or fixture, or selecting furniture, they found difficulty in identifying the
@@ -102,16 +91,11 @@ correct items.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other
-words, give warnings if there are limitations to your research such as not being able to find enough users of a
-particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
 
-!!! Considerations and/or limitations to the usability test and the findings/conclusions drawn from them. In other
-words,
-give warnings if there are limitations to your research such as not being able to find enough users of a particular
-demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
 
 - Our interface prototype's functionality was extremely limited by the simplicity of AdobeXD. We will not be able to analyze the true functionality of RoomArranger's layout screen until our project progresses away from AdobeXD.
+
+- The limitations of AdobeXD also make it difficult for us to analyze the file upload/sharing aspect of RoomArranger.
 
 - Users could only add one piece of furniture to the layout at a time. AdobeXD only allows one overlay.
     - Additionally, users could not move the furniture around once it was placed.
